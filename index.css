@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+    background-color: burlywood
+}
+
+a {
+    font-size: 35px
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px
+}
+
+h2 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px
+}
+
+h3 {
+
+    font-size: 27px
+}
